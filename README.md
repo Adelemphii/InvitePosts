@@ -29,3 +29,7 @@ Command usage:
  - \<url>: the url of the forum post to scrape
  - \<channel>: the ID of the channel to send the initial embed to, it has to be within the same server as the command
  - \<sendInvites>: yes/no parameter on whether or not to send invites if there are any
+
+## Example Embed:
+
+![image](https://user-images.githubusercontent.com/41644325/157138212-a230badf-74cd-4ce6-8b0b-94a748973085.png)
