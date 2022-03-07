@@ -3,22 +3,9 @@ package me.adelemphii.inviteposts;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.yaml.YAMLFactory;
 import me.adelemphii.inviteposts.instances.DiscordBot;
-import me.adelemphii.inviteposts.objects.Author;
-import me.adelemphii.inviteposts.objects.Groups;
 import me.adelemphii.inviteposts.utility.Configuration;
-import me.adelemphii.inviteposts.utility.Utility;
-import org.joda.time.DateTime;
-import org.joda.time.format.DateTimeFormat;
-import org.joda.time.format.DateTimeFormatter;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 
-import java.awt.*;
-import java.io.IOException;
 import java.io.InputStream;
-import java.util.ArrayList;
 
 public class Core {
 

@@ -6,7 +6,6 @@ import me.adelemphii.inviteposts.utility.Configuration;
 import org.javacord.api.DiscordApi;
 import org.javacord.api.DiscordApiBuilder;
 import org.javacord.api.entity.activity.ActivityType;
-import org.javacord.api.entity.intent.Intent;
 
 import java.util.List;
 import java.util.concurrent.Executors;
@@ -20,7 +19,7 @@ public class DiscordBot {
     private ScheduledExecutorService statusRunnable;
 
     // Discord API
-    private DiscordApi api;
+    private final DiscordApi api;
 
     public DiscordBot() {
         api = new DiscordApiBuilder()

@@ -1,8 +1,5 @@
 package me.adelemphii.inviteposts.objects;
 
-import java.io.File;
-import java.net.URL;
-
 public class Author {
 
     String name;
