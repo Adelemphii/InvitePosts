@@ -25,7 +25,7 @@ This is more of a neat little concept that I made while bored.
 The code sucks.
 
 Command usage:
-!post <url> <channel> <sendInvites>
- - <url>: the url of the forum post to scrape
- - <channel>: the ID of the channel to send the initial embed to, it has to be within the same server as the command
- - <sendInvites>: yes/no parameter on whether or not to send invites if there are any
+!post \<url> \<channel> \<sendInvites>
+ - \<url>: the url of the forum post to scrape
+ - \<channel>: the ID of the channel to send the initial embed to, it has to be within the same server as the command
+ - \<sendInvites>: yes/no parameter on whether or not to send invites if there are any
