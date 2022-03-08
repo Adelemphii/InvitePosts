@@ -33,4 +33,5 @@ Command usage:
 ## Example Embed:
 
 ![image](https://user-images.githubusercontent.com/41644325/157138212-a230badf-74cd-4ce6-8b0b-94a748973085.png)
-https://youtu.be/2FX4veS7Hi8
+
+[How To Use](https://youtu.be/2FX4veS7Hi8)
